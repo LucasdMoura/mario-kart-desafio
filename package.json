@@ -1,0 +1,24 @@
+{
+  "name": "desafio-mario-kart",
+  "version": "1.0.0",
+  "description": "\"Terminal Game of mario kart\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasdMoura/mario-kart-desafio.git"
+  },
+  "keywords": [
+    "game",
+    "terminal",
+    "mario"
+  ],
+  "author": "LucasdMoura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasdMoura/mario-kart-desafio/issues"
+  },
+  "homepage": "https://github.com/LucasdMoura/mario-kart-desafio#readme"
+}
