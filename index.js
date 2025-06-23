@@ -46,13 +46,23 @@ const player6 = {
     PONTOS: 0,
 };
 
+async function getRandomBlock() {
+    let randow = Math.random()
+    let result
+
+    switch (true) {
+    
+    }
+}
 async function rollDice() {
     return Math.floor(Math.random * 6) + 1;
 };
 
 async function playRaceEngine(character1, character2) {
     for(let round = 1; round <= 5; round++){
-        console.log(`🏁 Rodada ${round}`)
+        console.log(`🏁 Rodada ${round}`);
+
+        let block = await getRandomBlock();
     }
 }
 
