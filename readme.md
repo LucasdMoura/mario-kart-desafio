@@ -101,3 +101,7 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+<h3>🛠️ Tecnologias Utilizadas</h3>
+<ul>
+  <li><input type="checkbox" id="tech-1" /> <label for="tech-1">Node.js</label></li>
+</ul>
