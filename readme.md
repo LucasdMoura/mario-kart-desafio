@@ -104,7 +104,54 @@
 <h3>🛠️ Tecnologias Utilizadas</h3>
 <ul>
   <li><input type="checkbox" id="tech-1" /> <label for="tech-1">Node.js</label></li>
-  <p>É necessário possuir o NODE JS 20.12+ para executar o projeto, para isso <a>clique aqui<a href="https://nodejs.org/pt/download"> e faça o download da versão mais recente.<p>
-  <p>Para executar o projeto basta ir até a pasta base (mario-kart-desafio) e executar o comando no terminal ```node .\index.js``` e o demais executara de forma automática<p>
 </ul>
 
+<h3>⚙️ Pré-requisitos e Instalação</h3>
+<p>É necessário possuir o <strong>Node.js 20.12+</strong> para executar o projeto. Para isso, <a href="https://nodejs.org/pt/download" target="_blank">clique aqui</a> e faça o download da versão mais recente.</p>
+
+<h3>🚀 Como Executar</h3>
+<p>Para executar o projeto, basta ir até a pasta base (<code>mario-kart-desafio</code>) e executar o comando no terminal:</p>
+<pre><code>node ./index.js</code></pre>
+<p>O restante executará de forma automática.</p>
+
+<h2>🤝 Contribuições</h2>
+
+<p>Este projeto está aberto para contribuições da comunidade! Seja você iniciante ou experiente em Node.js, há várias maneiras de ajudar a tornar este jogo ainda melhor.</p>
+
+<h3>🌟 Como Contribuir</h3>
+
+<b>Ideias para Contribuições:</b>
+<ul>
+  <li>🎮 <strong>Novos Personagens</strong>: Adicione novos personagens do universo Mario com atributos únicos</li>
+  <li>🏁 <strong>Tipos de Pista</strong>: Implemente novos tipos de blocos (ex: armadilhas, power-ups, saltos)</li>
+  <li>🎨 <strong>Interface Visual</strong>: Melhore a apresentação visual da corrida no terminal</li>
+  <li>📊 <strong>Sistema de Estatísticas</strong>: Adicione histórico de vitórias e estatísticas detalhadas</li>
+  <li>🔧 <strong>Refatoração</strong>: Melhore a estrutura do código e adicione testes</li>
+  <li>📖 <strong>Documentação</strong>: Aprimore a documentação e adicione comentários no código</li>
+  <li>🌐 <strong>Internacionalização</strong>: Adicione suporte para múltiplos idiomas</li>
+</ul>
+
+<h3>📋 Passos para Contribuir</h3>
+<ol>
+  <li>🍴 <strong>Fork</strong> o repositório</li>
+  <li>🌿 Crie uma <strong>branch</strong> para sua feature (<code>git checkout -b feature/nova-feature</code>)</li>
+  <li>💻 Faça suas <strong>alterações</strong> e teste localmente</li>
+  <li>📝 <strong>Commit</strong> suas mudanças (<code>git commit -m 'Adiciona nova feature'</code>)</li>
+  <li>🚀 <strong>Push</strong> para a branch (<code>git push origin feature/nova-feature</code>)</li>
+  <li>🔄 Abra um <strong>Pull Request</strong></li>
+</ol>
+
+<h3>💡 Primeiras Contribuições</h3>
+<p>Novo no mundo open source? Sem problemas! Este é um projeto perfeito para iniciantes. Procure por issues marcadas com <code>good first issue</code> ou <code>help wanted</code>.</p>
+
+<p>Dúvidas? Abra uma <strong>issue</strong> para discussão ou entre em contato!</p>
+
+<h3>🏆 Reconhecimento</h3>
+<p>Todos os contribuidores serão reconhecidos no projeto. Sua contribuição, por menor que seja, é valiosa para a comunidade!</p>
+
+---
+
+<p align="center">
+  <b>Feito com ❤️ para a comunidade de desenvolvedores</b><br>
+  <i>Contribua, aprenda e divirta-se! 🎮</i>
+</p>
