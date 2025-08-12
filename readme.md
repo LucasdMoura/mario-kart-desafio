@@ -104,4 +104,7 @@
 <h3>🛠️ Tecnologias Utilizadas</h3>
 <ul>
   <li><input type="checkbox" id="tech-1" /> <label for="tech-1">Node.js</label></li>
+  <p>É necessário possuir o NODE JS 20.12+ para executar o projeto, para isso <a>clique aqui<a href="https://nodejs.org/pt/download"> e faça o download da versão mais recente.<p>
+  <p>Para executar o projeto basta ir até a pasta base (mario-kart-desafio) e executar o comando no terminal ```node .\index.js``` e o demais executara de forma automática<p>
 </ul>
+
